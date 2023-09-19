@@ -508,6 +508,9 @@
     "ramonimbao/mona": {
         "target": "ramonimbao/mona/v1"
     },
+    "retina": {
+        "target": "byteesstream/retina"
+    },
     "rgbkb/pan": {
         "target": "rgbkb/pan/rev1/32a"
     },
